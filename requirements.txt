@@ -1,0 +1,3 @@
+crayons
+packaging
+git+https://github.com/SkyLake-git/pretty_download.git
